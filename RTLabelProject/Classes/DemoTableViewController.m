@@ -77,7 +77,7 @@
 		[self.dataArray addObject:row4];
         
         NSMutableDictionary *row5 = [NSMutableDictionary dictionary];
-		[row5 setObject:@"<font face='HelveticaNeue-CondensedBold' size=20 stroke=1>Text with strokes</font> " forKey:@"text"];
+		[row5 setObject:@"<font face='HelveticaNeue-CondensedBold' size=30 stroke=10>Text with strokes</font> " forKey:@"text"];
 		[self.dataArray addObject:row5];
         
         NSMutableDictionary *row6 = [NSMutableDictionary dictionary];
